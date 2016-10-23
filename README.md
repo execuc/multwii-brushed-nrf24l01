@@ -1,4 +1,4 @@
-MILTIWII-NRF24
+MILTIWII-BRUSHED-NRF24
 ===============
 
 Modified version of the excellent Arduino Multwii brushed motors version to work with nrf24L01 2.4G module.
